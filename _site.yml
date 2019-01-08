@@ -1,0 +1,25 @@
+name: "Ashley Shaw"
+output_dir: "."
+navbar:
+  title: "E. Ashley Shaw"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: about.html
+    - text: "Publications"
+      href: pub.html
+
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/eashaw01
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/88Ashaw
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/eashleyshaw/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
