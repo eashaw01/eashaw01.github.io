@@ -3,32 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://eashaw01.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/antarctica/</loc>
+    <loc>http://eashaw01.github.io/antarctica/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://eashaw01.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>http://eashaw01.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/land-management/</loc>
+    <loc>http://eashaw01.github.io/land-management/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/soil-community-functions/</loc>
+    <loc>http://eashaw01.github.io/soil-community-functions/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://eashaw01.github.io/tags/</loc>
   </url>
   
 </urlset>

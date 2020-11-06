@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soil Ecosystem Functions on E. Ashley Shaw</title>
-    <link>http://example.org/soil-community-functions/</link>
+    <link>http://eashaw01.github.io/soil-community-functions/</link>
     <description>Recent content in Soil Ecosystem Functions on E. Ashley Shaw</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>ashleysh@uoregon.edu (Ashley Shaw)</managingEditor>
     <webMaster>ashleysh@uoregon.edu (Ashley Shaw)</webMaster>
-    <copyright>© Ashley Shaw</copyright><atom:link href="http://example.org/soil-community-functions/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Ashley Shaw</copyright><atom:link href="http://eashaw01.github.io/soil-community-functions/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

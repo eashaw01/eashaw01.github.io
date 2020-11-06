@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>E. Ashley Shaw</title>
-    <link>http://example.org/</link>
+    <link>http://eashaw01.github.io/</link>
     <description>Recent content on E. Ashley Shaw</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>ashleysh@uoregon.edu (Ashley Shaw)</managingEditor>
     <webMaster>ashleysh@uoregon.edu (Ashley Shaw)</webMaster>
-    <copyright>© Ashley Shaw</copyright><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Ashley Shaw</copyright><atom:link href="http://eashaw01.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://example.org/contact/</link>
+      <link>http://eashaw01.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ashleysh@uoregon.edu (Ashley Shaw)</author>
-      <guid>http://example.org/contact/</guid>
+      <guid>http://eashaw01.github.io/contact/</guid>
       <description>Say hello! Email: ashleysh (at) uoregon (dot) edu
 Mailing address Institute of Ecology and Evolution
 5289 University of Oregon
