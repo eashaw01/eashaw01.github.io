@@ -3,32 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://ashleyshaw.netlify.app/</loc>
+    <loc>http://eashaw01.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ashleyshaw.netlify.app/antarctica/</loc>
+    <loc>http://eashaw01.github.io/antarctica/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ashleyshaw.netlify.app/categories/</loc>
+    <loc>http://eashaw01.github.io/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ashleyshaw.netlify.app/contact/</loc>
+    <loc>http://eashaw01.github.io/designs/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ashleyshaw.netlify.app/land-management/</loc>
+    <loc>http://eashaw01.github.io/land-management/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ashleyshaw.netlify.app/soil-community-functions/</loc>
+    <loc>http://eashaw01.github.io/soil-community-functions/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ashleyshaw.netlify.app/tags/</loc>
+    <loc>http://eashaw01.github.io/techs/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>

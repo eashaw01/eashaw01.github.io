@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Designs on Edna West</title>
-    <link>https://example.com/designs/</link>
-    <description>Recent content in Designs on Edna West</description>
+    <title>Designs on E. Ashley Shaw</title>
+    <link>http://eashaw01.github.io/designs/</link>
+    <description>Recent content in Designs on E. Ashley Shaw</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Edna West</copyright>
-    
-	<atom:link href="https://example.com/designs/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>© Ashley Shaw</copyright><atom:link href="http://eashaw01.github.io/designs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
