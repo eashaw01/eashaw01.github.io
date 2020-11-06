@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on E. Ashley Shaw</title>
-    <link>http://eashaw01.github.io/categories/</link>
+    <link>http://ashleyshaw.netlify.app/categories/</link>
     <description>Recent content in Categories on E. Ashley Shaw</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>ashleysh@uoregon.edu (Ashley Shaw)</managingEditor>
     <webMaster>ashleysh@uoregon.edu (Ashley Shaw)</webMaster>
-    <copyright>© Ashley Shaw</copyright><atom:link href="http://eashaw01.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Ashley Shaw</copyright><atom:link href="http://ashleyshaw.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
