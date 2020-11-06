@@ -1,0 +1,7 @@
+---
+title: Soil Ecosystem Functions
+description: soil communities and ecosystem functions under global change
+images: ["/img/loch-vale.png"]
+---
+
+Soil ecosystem services (i.e., benefits that humans get from ecosystems) such as soil C storage and food production are directly related to specific soil ecosystem functions (i.e., processes that control the fluxes of material through the environment) such as decomposition and nutrient cycling. These ecosystem functions are shifting under rising CO2, warming, and N deposition and are linked to soil community responses. This link is key to understanding and predicting soil ecosystem functions, and respective services. Yet, soil invertebrates and many other taxa are highly understudied and often left out of global change and ecosystem function experiments. I am bridging this gap by testing how ecosystem functions shift with soil community trajectories under global change scenarios. My work in subalpine forests (Rocky Mountain National Park, CO) showed a shift to ephemeral, fast-growing plant parasitic and bacterivore nematode groups under long-term N addition and highlighted that increased root and microbial turnover by soil invertebrates was key to unexplained long-term forest C loss (Shaw et al. 2019). 

@@ -1,0 +1,89 @@
+theme = "personal-web"
+baseURL = "http://eashaw01.github.io"
+languageCode = "en-us"
+title = "E. Ashley Shaw"
+copyright="© Ashley Shaw"
+googleAnalytics = ""
+enableEmoji=true
+enableRobotsTXT=true
+pygmentsUseClasses=true
+pygmentsCodeFences=true
+
+[params.intro]
+  main = "E. Ashley Shaw"
+  sub = "The role of soil biodiversity in ecosytem functioning"
+  favicon = "img/icons8-soil-50.png"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  useHLJS = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+[params.sidebar]
+  backgroundImage = "/img/SFREC-storm.jpg" # header background image 
+  desc = "Sierra Foothills spring storm"
+  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  logo = "/img/ashley-shaw.jpg" #headshot
+
+  
+#  # position: see values of CSS background-position.
+#  position = "center top"
+
+[Author]
+  name = "Ashley Shaw"
+  website = "eashaw01.github.io"
+  email = "ashleysh@uoregon.edu"
+  github = "eashaw01"
+#  gitlab = "hallettlab"
+  twitter = "AShaw88"
+
+
+ [[menu.main]]
+    identifier = "Research"
+    name = "Research"
+    weight = 1
+    
+[[menu.main]]
+    parent = "Research"
+    name = "Antarctic soil communities"
+    url = "/antarctica/"
+    weight = 1
+
+[[menu.main]]
+    parent = "Research"
+    name = "Global changes and soil functions"
+    url = "/soil-community-functions/"
+    weight = 2
+
+
+[[menu.main]]
+    parent = "Research"
+    name = "Land management and soil biodiversity"
+    url = "/land-management/"
+    weight = 3
+ 
+    
+ [[menu.main]]
+    name = "Publications"
+    url = "publications"
+    weight = 2
+    
+    
+  [[menu.main]]
+    name = "Contact"
+    url = "contact"
+    weight = 3
+    
+        
+#  [[menu.main]]
+#    name = "Hiring!"
+#    url = "hiring"
+#    weight = 6
+    
+    
+#[[menu.main]]
+#    name = "Tags"
+#    url = "tags"
+#    weight = 3
