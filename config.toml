@@ -58,9 +58,9 @@ pygmentsCodeFences=true
 
 [[menu.main]]
   identifier = "about"
-  name = "About"
-  title = "About section"
-  url = "/about/"
+  name = "Research"
+  title = "Research"
+  url = "/research/"
   weight = -120
 
 [[menu.main]]
