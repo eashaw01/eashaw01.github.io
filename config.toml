@@ -1,8 +1,39 @@
 baseURL = "http://eashaw01.github.io"
 languageCode = "en-us"
 title = "E. Ashley Shaw"
-theme = "personal-web"
+theme = "gohugo-theme-ananke"
 copyright="© Ashley Shaw"
+themesDir = "../.."
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "The last theme you'll ever need. Maybe."
+  facebook = ""
+  twitter = "https://twitter.com/AShaw88"
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 2
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -40,6 +71,7 @@ pygmentsCodeFences=true
   backgroundImage = "/img/SFREC-storm.jpg" # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
   logo = "/img/ashley-shaw.jpg" # - default "/images/edna-west.jpg"
+  
 [params.assets]
   favicon = ""
   customCSS = ""
