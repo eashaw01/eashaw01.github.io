@@ -1,76 +1,87 @@
-baseURL = "https://eashaw01.github.io/"
-baseurl = "/"
-languageCode = "en-us"
+#baseURL = "https://eashaw01.github.io/"
+#languageCode = "en-us"
+#title = "E. Ashley Shaw"
+#theme = "personal-web"
+#copyright="© Ashley Shaw"
+#googleAnalytics = ""
+#enableEmoji=true
+#enableRobotsTXT=true
+#pygmentsUseClasses=true
+#pygmentsCodeFences=true
+
 title = "E. Ashley Shaw"
-theme = "personal-web"
-copyright="© Ashley Shaw"
+baseURL = "https://eashaw01.github.io/"
+languageCode = "en-us"
+theme = "gohugo-theme-ananke"
+themesDir = "../.."
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
-enableEmoji=true
-enableRobotsTXT=true
-pygmentsUseClasses=true
-pygmentsCodeFences=true
+enableRobotsTXT = true
 
 [params.intro]
   main = "E. Ashley Shaw"
   sub = "The role of soil biodiversity in ecosytem functioning"
   
-[params.main]
-  latestPublishHeader = "My Latest Project"
+#[params.main]
+  #latestPublishHeader = "My Latest Project"
   
-[taxonomies]
-  design = "designs"
-  tech = "techs"
+#[taxonomies]
+#  design = "designs"
+#  tech = "techs"
   
-[params]
-  breadcrumb = true
-  accentColor = "#FD3519"
-  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+#[params]
+#  breadcrumb = true
+#  accentColor = "#FD3519"
+#  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
 
-[params.notFound]
-  gopher = "/images/gopher.png" # checkout https://gopherize.me/
-  h1 = 'Bummer!'
-  p = "It seems that this page doesn't exist."
+#[params.notFound]
+#  gopher = "/images/gopher.png" # checkout https://gopherize.me/
+#  h1 = 'Bummer!'
+#  p = "It seems that this page doesn't exist."
 
-[params.sections]
+#[params.sections]
   # Define how your sections will be called
   # when automatically pulled. For instance in the 404 page
-  post = "article"
-  portfolio = "project"
+#  post = "article"
+#  portfolio = "project"
   
-[params.sidebar]
-  backgroundImage = "/img/SFREC-storm.jpg" # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
-  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "/img/ashley-shaw.jpg" # - default "/images/edna-west.jpg"
-[params.assets]
-  favicon = ""
-  customCSS = ""
+#[params.sidebar]
+#  backgroundImage = "/img/SFREC-storm.jpg" # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+#  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+#  logo = "/img/ashley-shaw.jpg" # - default "/images/edna-west.jpg"
+#[params.assets]
+#  favicon = ""
+#  customCSS = ""
 
-[params.social]
-  github = "https://github.com/eashaw01"
-  twitter = "https://twitter.com/AShaw88"
-  linkedin = "https://www.linkedin.com/in/"
-
-
-[params.contact]
-  email = ""
-  text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
+#[params.social]
+#  github = "https://github.com/eashaw01"
+#  twitter = "https://twitter.com/AShaw88"
+#  linkedin = "https://www.linkedin.com/in/"
 
 
-[sitemap]
-  changefreq = "monthly"
-  filename = "sitemap.xml"
-  priority = 0.5
+#[params.contact]
+#  email = ""
+#  text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
 
-[privacy]
-  [privacy.googleAnalytics]
-    anonymizeIP = true
-    disable = true
-    respectDoNotTrack = true
-    useSessionStorage = false
-  [privacy.twitter]
-    disable = false
-    enableDNT = true
-    simple = false
+
+#[sitemap]
+#  changefreq = "monthly"
+#  filename = "sitemap.xml"
+#  priority = 0.5
+
+#[privacy]
+#  [privacy.googleAnalytics]
+#    anonymizeIP = true
+#    disable = true
+#    respectDoNotTrack = true
+#    useSessionStorage = false
+#  [privacy.twitter]
+#    disable = false
+#    enableDNT = true
+#    simple = false
     
 
 
