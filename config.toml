@@ -1,4 +1,5 @@
 baseURL = "http://eashaw01.github.io/"
+baseurl = "/"
 languageCode = "en-us"
 title = "E. Ashley Shaw"
 theme = "personal-web"
