@@ -6,7 +6,7 @@ description: carbon capturing strategies
 work: [biodiversity, forage, carbon]
 #techs: [javascript, D3]
 #designs: [Photoshop]
-thumbnail: compost/compost-forage.jpg
+thumbnail: compost/compost-forage.png
 #projectUrl: https://www.sampleorganization.org
 ---
 
