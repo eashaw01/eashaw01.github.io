@@ -95,8 +95,6 @@ DefaultContentLanguage = "en"
   github = "https://github.com/eashaw01"
   twitter = "https://twitter.com/88AShaw"
   linkedin = "https://www.linkedin.com/in/eashleyshaw/"
-  
-[params.social]
   icon = "researchgate"
   icon_pack = "fa"
   link = "https://www.researchgate.net/profile/E_Ashley_Shaw"
