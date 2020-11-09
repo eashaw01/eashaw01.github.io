@@ -20,7 +20,7 @@ DefaultContentLanguage = "en"
 
 [params.intro]
   main = "E. Ashley Shaw"
-  sub = "The role of soil biodiversity in ecosytem functioning"
+  sub = "Soil biodiversity and ecosytem functioning"
   
 [params.main]
   latestPublishHeader = " "
