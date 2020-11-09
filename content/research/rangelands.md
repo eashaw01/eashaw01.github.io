@@ -5,7 +5,8 @@ date: 2019-04-29T16:18:12+01:00
 publishDate: 2019-04-29T19:12:12+01:00
 thumbnail: images/compost-forage.png
 ---
-images: ["/research/images/compost-forage.png"]
+
+{{< figure src="/research/images/compost-forage.png" caption="Compost amendments boost productivity under drought conditions" >}}
 
 Compost amendments are an increasingly popular rangeland management strategy because they increase both soil carbon and forage production. To date the compost-soil C relationship has been attributed to the direct input of organic material as well as the indirect inputs from resource-stimulated plant growth, but there is considerable variation in compost-soil carbon relationships. At the same time, compost has been widely used in agriculture to shift soil biotic communities away from parasites and toward symbionts. Soil biotic communities may consequently be a critical link in the relationship between compost amendments, soil carbon, and overall soil health. Biotic communities can alter carbon directly through organic matter decomposition and indirectly by altering plant productivity (via both nutrient transportation and root predation). 
 
