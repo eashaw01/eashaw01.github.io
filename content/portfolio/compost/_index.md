@@ -1,12 +1,12 @@
 ---
-title: Antarctic Soil Communities
-description: Description of projects in Antarctica
+title: Compost amendments on working rangelands
+description: carbon capturing strategies
 #date: "2019-05-02T19:47:09+02:00"
 #jobDate: 2019
-work: [biodiversity, communities, carbon]
+work: [biodiversity, forage, carbon]
 #techs: [javascript, D3]
 #designs: [Photoshop]
-thumbnail: sample-project/taylorvalley.jpg
+thumbnail: compost/compost-forage.jpg
 #projectUrl: https://www.sampleorganization.org
 ---
 

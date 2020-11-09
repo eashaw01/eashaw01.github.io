@@ -1,6 +1,6 @@
 ---
-title: Research
-description: 'Research'
+title: Current work
+description: 'latest'
 ---
 
-You'll add here a general introduction of your portfolio page.
+My current projects
