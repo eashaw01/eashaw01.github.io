@@ -66,7 +66,7 @@ DefaultContentLanguage = "en"
   weight = -130
 
 [[menu.main]]
-  identifier = "post"
+  identifier = "research"
   name = "Research"
   title = "Research"
   url = "/research/"
@@ -83,7 +83,7 @@ DefaultContentLanguage = "en"
   identifier = "cv"
   name = "CV"
   title = "CV"
-  url = "/files/Shaw_CV_Oct2020.pdf"
+  url = "/cv/files/Shaw_CV_Oct2020.pdf"
   weight = -100
 
  
