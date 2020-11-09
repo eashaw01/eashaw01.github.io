@@ -1,7 +1,7 @@
 ---
 title: ABOUT
 description: Hi, I'm Ashley Shaw
-images: ["/static/img/Ashley_Antarctica.png"]
+images: ["/Ashley_Antarctica.png"]
 ---
 
 
