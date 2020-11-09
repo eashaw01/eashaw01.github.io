@@ -55,7 +55,7 @@ DefaultContentLanguage = "en"
   
 [params.contact]
   email = "ashleysh@uoregon.edu"
-  text= "Contact me" # text of the contact link in the sidebar. If email params.contact.email is defined
+  text= "Email me" # text of the contact link in the sidebar. If email params.contact.email is defined
   
 [menu]
 [[menu.main]]

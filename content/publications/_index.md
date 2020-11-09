@@ -4,6 +4,8 @@ description: Publications
 images: ["/img/Ashley_Antarctica.png"]
 ---
 
+ORCID: https://orcid.org/0000-0002-4768-3465
+
 ## Published
 1. Ankrom, KE, ALC Franco, SJ Fonte, LA Gherardi, CM de Tomasel, WS Andriuzzi, EA Shaw, OE Sala, and DH Wall. 2020. Ecto- and endoparasitic nematodes differ in response to precipitation across a temporal, but not a spatial gradient in western US grasslands. Oecologia. https://doi.org/10.1007/s00442-020-04708-7  
 
