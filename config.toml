@@ -50,7 +50,7 @@ DefaultContentLanguage = "en"
 [params.sections]
   # Define how your sections will be called
   # when automatically pulled. For instance in the 404 page
-  post = "research"
+  post = "article"
   portfolio = "project"
   
 [params.contact]
@@ -66,7 +66,7 @@ DefaultContentLanguage = "en"
   weight = -130
 
 [[menu.main]]
-  identifier = "post"
+  identifier = "blog"
   name = "Research"
   title = "Research"
   url = "/research/"
