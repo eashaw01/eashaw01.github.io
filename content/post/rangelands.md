@@ -6,7 +6,7 @@ publishDate: 2020-04-29T19:12:12+01:00
 thumbnail: images/compost-forage.png
 ---
 
-{{< figure src="/research/images/compost-forage.png" caption="Compost amendments boost productivity under drought conditions" >}}
+{{< figure src="/post/images/compost-forage.png" caption="Compost amendments boost productivity under drought conditions" >}}
 
 <!--more-->
 
