@@ -67,7 +67,7 @@ DefaultContentLanguage = "en"
 
 [[menu.main]]
   identifier = "blog"
-  name = "Post"
+  name = "Research"
   title = "Blog section"
   url = "/post/"
   weight = -120
