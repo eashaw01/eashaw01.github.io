@@ -8,4 +8,6 @@ thumbnail: images/loch-vale.png
 
 {{< figure src="/post/images/loch-vale.png" caption="Loch Vale, Rocky Mountain National Park, Colorado" >}}
 
+<!--more-->
+
 Nematode communities in subalpine forests.
