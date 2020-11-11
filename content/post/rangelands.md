@@ -1,8 +1,8 @@
 ---
 title: California rangelands
 description: Compost amendments as a range management strategy
-date: 2019-04-29T16:18:12+01:00
-publishDate: 2019-04-29T19:12:12+01:00
+date: 2020-04-29T16:18:12+01:00
+publishDate: 2020-04-29T19:12:12+01:00
 thumbnail: images/compost-forage.png
 ---
 

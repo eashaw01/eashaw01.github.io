@@ -1,12 +1,12 @@
 ---
 title: Antarctica
 description: Description of projects in Antarctica
-#date: "2019-05-02T19:47:09+02:00"
-#jobDate: 2019
+date: 2019-04-29T16:18:12+01:00
+publishDate: 2019-04-29T19:12:12+01:00
 #work: [biodiversity, communities, carbon]
 #techs: [javascript, D3]
 #designs: [Photoshop]
-#thumbnail: sample-project/taylorvalley.jpg
+thumbnail: images/taylorvalley.jpg
 #projectUrl: https://www.sampleorganization.org
 ---
 
