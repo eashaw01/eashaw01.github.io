@@ -6,9 +6,11 @@ publishDate: 2019-04-29T19:12:12+01:00
 #work: [biodiversity, communities, carbon]
 #techs: [javascript, D3]
 #designs: [Photoshop]
-thumbnail: images/taylorvalley.jpg
+#thumbnail: images/taylorvalley.jpg
 #projectUrl: https://www.sampleorganization.org
 ---
+
+{{< figure src="/post/images/taylorvalley.png" caption="Taylor Valley, Antarctica" >}}
 
 Antarctic ecosystems are an incredible model system for studying soil communities. In the absence of plants and other interacting factors, the McMurdo Dry Valleys, Antarctica (MDV) provide a unique opportunity to study complete soil communities where all invertebrate taxa can be identified. These systems have extremely low soil organic C and for decades a two-level food web (microbes and their grazers) was accepted. Using a stable isotope approach to distinguish trophic levels, my research shows that despite extremely low C availability, the MDV soils support at least three trophic levels, including an omnivore-predator (Shaw et al. 2018). 
 
