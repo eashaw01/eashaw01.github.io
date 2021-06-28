@@ -20,7 +20,7 @@ DefaultContentLanguage = "en"
 
 [params.intro]
   main = "E. Ashley Shaw"
-  sub = "Soil biodiversity and ecosytem functioning"
+  sub = "Soil biodiversity and ecosystem functioning"
   
 [params.main]
   latestPublishHeader = " "
